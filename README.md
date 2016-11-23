@@ -1,3 +1,3 @@
 # PullRequestPractice
 
-This is a practice for pull requests.
+This is a modified readme.
